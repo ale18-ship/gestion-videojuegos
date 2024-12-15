@@ -1,0 +1,12 @@
+com\miempresa\videojuegos\videojuego\app\util\GestionDeAlmacenamiento.class
+com\miempresa\videojuegos\videojuego\app\crud\JugadorCrud.class
+com\miempresa\videojuegos\videojuego\app\iconos\VentanaConIconos.class
+com\miempresa\videojuegos\videojuego\app\gui\AplicacionPrincipal.class
+com\miempresa\videojuegos\videojuego\app\crud\ConsolaCrud.class
+com\miempresa\videojuegos\videojuego\app\iconos\CargarIcono.class
+com\miempresa\videojuegos\videojuego\app\entidades\Consola.class
+com\miempresa\videojuegos\videojuego\app\entidades\Videojuego.class
+com\miempresa\videojuegos\videojuego\app\gui\Aplicacion.class
+com\miempresa\videojuegos\videojuego\app\entidades\Jugador.class
+com\miempresa\videojuegos\videojuego\app\crud\VideojuegoCrud.class
+com\miempresa\videojuegos\videojuego\app\gui\VentanaPrincipal.class
